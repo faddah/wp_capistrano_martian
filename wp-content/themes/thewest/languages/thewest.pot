@@ -1,0 +1,444 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TheWest\n"
+"POT-Creation-Date: 2015-10-11 16:47+0530\n"
+"PO-Revision-Date: 2015-10-11 16:47+0530\n"
+"Last-Translator: NavThemes\n"
+"Language-Team: NavThemes <support@navthemes.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPathExcluded-0: ../admin/kirki\n"
+
+#: ../404.php:10
+msgid "404. Nothing here"
+msgstr ""
+
+#: ../404.php:16
+msgid "Nothing Found here, you might want to try Searching"
+msgstr ""
+
+#: ../content-none.php:11
+msgid "Nothing Found"
+msgstr ""
+
+#: ../content-none.php:18
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../content-none.php:22
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../content-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: ../content-page.php:19 ../content.php:46
+msgid "Pages:"
+msgstr ""
+
+#: ../content-page.php:23 ../content.php:50
+msgid "Page"
+msgstr ""
+
+#: ../content-page.php:30 ../content.php:72
+msgid "Edit"
+msgstr ""
+
+#: ../content.php:41
+#, php-format
+msgid "Continue reading %s"
+msgstr ""
+
+#: ../content.php:63 ../page.php:34
+msgid "Read More"
+msgstr ""
+
+#: ../footer.php:37
+msgid "TheWest Multipurpose WordPress Theme"
+msgstr ""
+
+#: ../footer.php:37
+msgid "By"
+msgstr ""
+
+#: ../footer.php:37
+msgid "NavThemes.com"
+msgstr ""
+
+#: ../functions.php:75
+msgctxt "Montserrat font: on or off"
+msgid "on"
+msgstr ""
+
+#: ../functions.php:81
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr ""
+
+#: ../functions.php:115
+msgid "Primary Menu"
+msgstr ""
+
+#: ../functions.php:141
+msgid "Footer Area 1"
+msgstr ""
+
+#: ../functions.php:148
+msgid "Footer Area 2"
+msgstr ""
+
+#: ../inc/back-compat.php:32 ../inc/back-compat.php:40
+#: ../inc/back-compat.php:51
+#, php-format
+msgid ""
+"This theme requires at least WordPress version 4.2. You are running version "
+"%s. Please upgrade and try again."
+msgstr ""
+
+#: ../navthemes_fuctions.php:131 ../navthemes_fuctions.php:156
+msgid ", "
+msgstr ""
+
+#: ../navthemes_fuctions.php:143
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: ../navthemes_fuctions.php:148
+#, php-format
+msgid "1 Comment"
+msgid_plural "%s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../navthemes_fuctions.php:158
+#, php-format
+msgid " %1$s %3$s %4$s %5$s %2$s "
+msgstr ""
+
+#: ../navthemes_fuctions.php:343 ../navthemes_fuctions.php:347
+#: ../navthemes_fuctions.php:351 ../theme-options.php:120
+#: ../theme-options.php:151 ../theme-options.php:180
+msgid ""
+"You can have anything here, which makes a good impression on your visitor"
+msgstr ""
+
+#: ../page.php:29 ../theme-options.php:213
+msgid "you can have anything here which is related to your about us"
+msgstr ""
+
+#: ../page.php:31 ../theme-options.php:223
+msgid ""
+"Pellentesque nulla magna, accumsan sed ante quis, gravida feugiat turpis. "
+"Vivamus et fringilla ligula. Etiam sapien tellus, imperdiet eget posuere "
+"nec, cursus vel arcu. Ut molestie at posuere ante, at volutpat tellus "
+"egestas. Sed ut nunc egestas, porta tortor a, tempor sem."
+msgstr ""
+
+#: ../page.php:47 ../theme-options.php:283
+msgid "Services Title One"
+msgstr ""
+
+#: ../page.php:48 ../page.php:53 ../page.php:58 ../theme-options.php:293
+#: ../theme-options.php:324 ../theme-options.php:355
+msgid ""
+"You can anything related to your Services. Pellentesque nulla magna, "
+"accumsan sed ante quis, gravida feugiat turpis."
+msgstr ""
+
+#: ../page.php:52 ../theme-options.php:314
+msgid "Services Title Two"
+msgstr ""
+
+#: ../page.php:57 ../theme-options.php:345
+msgid "Services Title Three"
+msgstr ""
+
+#: ../page.php:71 ../page.php:77 ../page.php:83 ../page.php:93
+#: ../theme-options.php:403 ../theme-options.php:424 ../theme-options.php:445
+msgid ""
+"Pellentesque nulla magna, accumsan sed ante quis, gravida feugiat turpis."
+msgstr ""
+
+#: ../page.php:73 ../theme-options.php:410 ../theme-options.php:414
+msgid "Client 1"
+msgstr ""
+
+#: ../page.php:79 ../theme-options.php:431 ../theme-options.php:435
+msgid "Client 2"
+msgstr ""
+
+#: ../page.php:85 ../theme-options.php:452 ../theme-options.php:456
+msgid "Client 3"
+msgstr ""
+
+#: ../page.php:92 ../theme-options.php:377 ../theme-options.php:391
+msgid "Testimonials"
+msgstr ""
+
+#: ../search.php:10
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../search.php:25
+#, php-format
+msgid "Nothing Found for : %s <br/>"
+msgstr ""
+
+#: ../searchform.php:9
+msgid "Need to find something?"
+msgstr ""
+
+#: ../searchform.php:11
+msgid "Start typing..."
+msgstr ""
+
+#: ../searchform.php:12
+msgid "SUBMIT"
+msgstr ""
+
+#: ../theme-options.php:44
+msgid "NavThemes Support"
+msgstr ""
+
+#: ../theme-options.php:45
+msgid ""
+"You are using Free version of TheWest Theme, Check out Paid version, which "
+"comes with many exciting features in the package."
+msgstr ""
+
+#: ../theme-options.php:72
+msgid "Front Page Settings"
+msgstr ""
+
+#: ../theme-options.php:73
+msgid "Manage Front Page Setting from here"
+msgstr ""
+
+#: ../theme-options.php:81
+msgid "Slider Settings"
+msgstr ""
+
+#: ../theme-options.php:82
+msgid "From here you can manage background image, Title and Text of Sliders"
+msgstr ""
+
+#: ../theme-options.php:97
+msgid "Slider Active"
+msgstr ""
+
+#: ../theme-options.php:98
+msgid "You Can On/Off Front Page Slider from here"
+msgstr ""
+
+#: ../theme-options.php:106
+msgid "Slider Title 1"
+msgstr ""
+
+#: ../theme-options.php:110
+msgid "Slider One Title"
+msgstr ""
+
+#: ../theme-options.php:116
+msgid "Slider Text 1"
+msgstr ""
+
+#: ../theme-options.php:127
+msgid "Slider Image 1"
+msgstr ""
+
+#: ../theme-options.php:137
+msgid "Slider Title 2"
+msgstr ""
+
+#: ../theme-options.php:141
+msgid "Slider Two Title"
+msgstr ""
+
+#: ../theme-options.php:147
+msgid "Slider Text 2"
+msgstr ""
+
+#: ../theme-options.php:157
+msgid "Slider Image 2"
+msgstr ""
+
+#: ../theme-options.php:166
+msgid "Slider Title 3"
+msgstr ""
+
+#: ../theme-options.php:170
+msgid "Slider Three Title"
+msgstr ""
+
+#: ../theme-options.php:176
+msgid "Slider Text 3"
+msgstr ""
+
+#: ../theme-options.php:185
+msgid "Slider Image 3"
+msgstr ""
+
+#: ../theme-options.php:200
+msgid "About us Setting"
+msgstr ""
+
+#: ../theme-options.php:201 ../theme-options.php:271
+msgid "From here you can manage Home Page about us section"
+msgstr ""
+
+#: ../theme-options.php:209
+msgid "About us Title"
+msgstr ""
+
+#: ../theme-options.php:219
+msgid "About us Text"
+msgstr ""
+
+#: ../theme-options.php:229
+msgid "Show Read More"
+msgstr ""
+
+#: ../theme-options.php:239
+msgid "Read More link"
+msgstr ""
+
+#: ../theme-options.php:256
+msgid "About us Image"
+msgstr ""
+
+#: ../theme-options.php:270
+msgid "Services"
+msgstr ""
+
+#: ../theme-options.php:279
+msgid "Services Title 1"
+msgstr ""
+
+#: ../theme-options.php:289
+msgid "Services Text 1"
+msgstr ""
+
+#: ../theme-options.php:299
+msgid "Services Image 1"
+msgstr ""
+
+#: ../theme-options.php:310
+msgid "Services Title 2"
+msgstr ""
+
+#: ../theme-options.php:320
+msgid "Services Text 2"
+msgstr ""
+
+#: ../theme-options.php:330 ../theme-options.php:361
+msgid "Services Image 3"
+msgstr ""
+
+#: ../theme-options.php:341
+msgid "Services Title 3"
+msgstr ""
+
+#: ../theme-options.php:351
+msgid "Services Text 3"
+msgstr ""
+
+#: ../theme-options.php:378
+msgid "From here you can manage Testimonials"
+msgstr ""
+
+#: ../theme-options.php:387
+msgid "Testimonial Title"
+msgstr ""
+
+#: ../theme-options.php:399
+msgid "Testimonial Text"
+msgstr ""
+
+#: ../theme-options.php:420
+msgid "Testimonial 1"
+msgstr ""
+
+#: ../theme-options.php:441
+msgid "Testimonial 2"
+msgstr ""
+
+#: ../theme-options.php:462
+msgid "Testimonial 3"
+msgstr ""
+
+#: ../theme-options.php:466
+msgid ""
+"Pellentesque nulla magna, accumsan sed ante quis, gravida feugiat turpis. "
+msgstr ""
+
+#: ../theme-options.php:479 ../theme-options.php:488
+msgid "General Settings"
+msgstr ""
+
+#: ../theme-options.php:480
+msgid "Manage General Setting from here"
+msgstr ""
+
+#: ../theme-options.php:489
+msgid "From Here You Can Manage Some General Settings"
+msgstr ""
+
+#: ../theme-options.php:497
+msgid "Inner Pages Title Background image"
+msgstr ""
+
+#: ../theme-options.php:508
+msgid "Show Top Button"
+msgstr ""
+
+#: ../theme-options.php:518
+msgid "Social Settings"
+msgstr ""
+
+#: ../theme-options.php:519
+msgid "From Here You Can Manage Some Social Settings"
+msgstr ""
+
+#: ../theme-options.php:527
+msgid "Facebook"
+msgstr ""
+
+#: ../theme-options.php:538
+msgid "Twiiter"
+msgstr ""
+
+#: ../theme-options.php:549
+msgid "Pinterest"
+msgstr ""
+
+#: ../theme-options.php:560
+msgid "Tumblr"
+msgstr ""
+
+#: ../theme-options.php:570
+msgid "Logo Settings"
+msgstr ""
+
+#: ../theme-options.php:571
+msgid "From Here You Can Manage Manage Settings"
+msgstr ""
+
+#: ../theme-options.php:579
+msgid "Logo"
+msgstr ""

@@ -1,0 +1,34 @@
+/* Customizer CSS */
+
+#accordion-section-navthemes_support h3{
+	background:#20c18b !important;
+	color:white !important;
+	}
+	
+	#accordion-section-navthemes_support h3:after{
+		color:white !important;
+	}
+	
+	.navthemes-links ul{
+		padding:0px;
+		margin:0px;
+		margin-top:10px;
+	}
+	
+	.navthemes-links ul li{
+		margin-bottom:1px;
+	}
+	
+	.navthemes-links ul li a{
+		padding:10px;
+		background:white;
+		display:block;
+		color:black;
+		font-weight:bold;
+		
+	}
+	.navthemes-links ul li a:hover{ 
+		background:#20c18b;
+		color:white; 
+		
+	}
